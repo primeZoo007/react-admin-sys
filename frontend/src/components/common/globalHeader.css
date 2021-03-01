@@ -1,0 +1,74 @@
+.menu {
+  .anticon {
+    margin-right: 8px;
+  }
+  .ant-dropdown-menu-item {
+    width: 160px;
+  }
+}
+.title-wrapper {
+  position: absolute;
+  left: 15px;
+}
+.page-header {
+  height: 64px;
+  padding: 0 12px 0 0;
+  background: #FFFFFF;
+  box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
+  position: relative;
+  width: 100%;
+  .left {
+    display: inline-block;
+    .header-route {
+      display: flex;
+      color: #666666;
+      font-size: 18px;
+      padding-left: 40px;
+      .route-item {
+        padding-right: 30px;
+      }
+    }
+  }
+  .right {
+    text-align: right;
+    float: right;
+    height: 100%;
+    width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    .action {
+      cursor: pointer;
+      padding: 0 12px;
+      display: inline-block;
+      transition: all 0.3s;
+      height: 100%;
+      > i {
+        font-size: 16px;
+        vertical-align: middle;
+        color: fade(#000000, 65%);
+      }
+    }
+    .search {
+      padding: 0;
+      margin: 0 12px;
+      &:hover {
+        background: transparent;
+      }
+    }
+    .account {
+      .avatar {
+        margin: 20px 8px 20px 0;
+        background: rgba(255, 255, 255, 0.85);
+        vertical-align: middle;
+      }
+    }
+  }
+}
+
+.name {
+  width: 200px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}

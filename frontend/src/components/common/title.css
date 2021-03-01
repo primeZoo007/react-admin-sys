@@ -1,0 +1,8 @@
+.content-title {
+  span {
+    font-size: 18px;
+    color: #404040;
+    font-weight: bold;
+    margin-left: 10px;
+  }
+}

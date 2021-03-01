@@ -1,0 +1,34 @@
+.dashboard-logo {
+  height: 64px;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 170px;
+  height: 24px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(http://img3.dian.so/lhc/2019/05/06/170w_24h_16DFC1557151190.png);
+}
+
+.dashboard-header-title {
+  padding-left: 15px;
+}
+
+.dashboard-bread {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  border-bottom: 1px solid #DEE2E7;
+  background: #FFFFFF;
+}
+
+.dashboard-content-container {
+  min-height: 500px;
+  margin: 10px;
+  padding: 15px;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+}

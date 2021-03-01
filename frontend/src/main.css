@@ -1,0 +1,28 @@
+:global {
+  body {
+    font-size: 14px;
+    color: #222222;
+    /* overflow: hidden; */
+    a {
+      color: #222222;
+    }
+    .contaienr-box {
+      padding: 26px 30px 0 30px;
+      /* height: 600px;
+      overflow-y: auto; */
+      .search-box {
+        background-color: #FFFFFF;
+        padding: 10px;
+      }
+      .table-box {
+        margin-top: 20px;
+        background-color: #FFFFFF;
+        padding: 10px;
+      }
+    }
+  }
+#time{
+  width:100% !important
+}
+
+}

@@ -1,0 +1,8 @@
+.title-container {
+  .title {
+    color: rgb(108, 134, 232);
+    font-size: 18px;
+  }
+  padding-bottom: 18px;
+  border-bottom: 1px dashed #BBBBBB;
+}

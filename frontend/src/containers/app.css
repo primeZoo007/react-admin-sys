@@ -1,0 +1,101 @@
+:global {
+  .ant-layout-header {
+    border-bottom: 1px solid #DEE2E7;
+  }
+  .ant-layout-header {
+    display: flex;
+    justify-content: space-between;
+    .user-menu {
+      padding-right: 100px;
+    }
+  }
+  .page-loading {
+    padding-top: 200px;
+    text-align: center;
+  }
+  .ant-menu-dark,
+  .ant-menu-dark .ant-menu-sub {
+    background-color: #6F79D7;
+  }
+
+  .ant-layout-sider {
+    background-color: #6F79D7;
+  }
+  .ant-menu-dark.ant-menu-inline .ant-menu-item,
+  .ant-menu-dark.ant-menu-inline .ant-menu-submenu-title {
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+
+  .ant-menu.ant-menu-dark .ant-menu-item-selected,
+  .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+    background-color: #FFFFFF;
+    color: #606AC8;
+    font-size: 20px;
+  }
+
+  .ant-menu-dark .ant-menu-inline.ant-menu-sub {
+    background-color: #4E58B4;
+    box-shadow: none;
+  }
+
+  .ant-menu-item .anticon + span,
+  .ant-menu-submenu-title .anticon + span {
+    font-size: 22px;
+  }
+
+  .ant-form label {
+    font-size: 22px !important;
+  }
+  .ant-table-thead > tr > th {
+    background: #6881EB !important;
+    color: #FFFFFF !important;
+    font-weight: 400 !important;
+  }
+  .ant-pagination-item-active {
+    border-color: #6881EB !important;
+    background: #6881EB !important;
+  }
+  .ant-pagination-item-active a {
+    color: #FFFFFF !important;
+  }
+
+  .ant-table {
+    font-size: 16px !important;
+  }
+
+  .ant-menu-item .anticon,
+  .ant-menu-submenu-title .anticon {
+    font-size: 26px !important;
+  }
+
+  .ant-form-item {
+    margin-bottom: 16px !important;
+  }
+
+  .ant-calendar-picker-input {
+    display: flex !important;
+  }
+  .avatar-uploader > .ant-upload {
+    width: 150px !important;
+    height: 150px !important;
+  }
+
+  .ant-modal-title {
+    font-size: 28px !important;
+  }
+
+  /* .ant-form-item-label label {
+    font-size: 22px !important;
+  } */
+
+  .ant-message {
+    top: 50% !important;
+    transform: translate(0 -50%);
+    font-size: 22px !important;
+    .anticon anticon-exclamation-circle,
+    anticon-close-circle {
+      font-size: 22px !important;
+    }
+  }
+}

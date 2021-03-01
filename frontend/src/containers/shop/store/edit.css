@@ -1,0 +1,68 @@
+.form-container {
+  margin-top: 18px;
+}
+
+.btn-container {
+  padding: 25px 0 20px 0;
+  display: flex;
+  justify-content: center;
+}
+.save {
+  width: 120px;
+  height: 50px;
+  margin-left: 15px;
+  background: linear-gradient(-90deg, rgba(104, 129, 235, 1) 0%, rgba(137, 155, 234, 1) 100%);
+  border-radius: 2px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.btn-container {
+  padding: 25px 0 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.add-norm {
+  color: #6881EB;
+  font-size: 20px;
+}
+
+.add-norm-info {
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  width: 120px;
+  height: 40px;
+  background: linear-gradient(-90deg, rgba(104, 129, 235, 1) 0%, rgba(137, 155, 234, 1) 100%);
+  border-radius: 2px;
+}
+
+.edit-container {
+  display: flex;
+  a {
+    padding-left: 10px;
+  }
+}
+
+.category-container {
+  display: flex;
+  select {
+    margin-right: 5px;
+  }
+}
+
+.pright {
+  margin-right: 5px;
+}
+
+.select {
+  width: 100px;
+  height: 40px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 10px;
+}

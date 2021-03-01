@@ -1,0 +1,109 @@
+.contaienr-box {
+  padding-bottom: 30px;
+}
+.add-btn {
+  width: 130px;
+  height: 40px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.tree-container {
+  margin-top: 16px;
+}
+
+.parent {
+  color: aqua;
+}
+
+.fir-item {
+  color: red;
+}
+.sec-item {
+  padding-left: 30px;
+  color: yellow;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 42px;
+}
+
+.confirm {
+  width: 100px;
+  height: 40px;
+  background: rgba(116, 126, 222, 1);
+  border-radius: 2px;
+  color: #FFFFFF;
+  margin-right: 116px;
+}
+.cancel {
+  width: 100px;
+  height: 40px;
+  border: 1px solid rgba(170, 170, 170, 1);
+  border-radius: 2px;
+  color: #AAAAAA;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+
+.up-icon {
+  margin-right: 4px;
+  background-image: url(https://img3.dian.so/lhc/2019/05/20/200w_200h_088BD1558363913.png);
+  height: 12px;
+  width: 12px;
+  background-position: center;
+  background-size: cover;
+}
+
+.down-icon {
+  margin-right: 4px;
+  background-image: url(https://img3.dian.so/lhc/2019/05/20/200w_200h_031011558364215.png);
+  height: 12px;
+  width: 12px;
+  background-position: center;
+  background-size: cover;
+}
+
+.parent-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  font-size: 22px;
+  border-bottom: 1px solid #E9E9E9;
+}
+
+.fir-parent-item {
+  padding-left: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  font-size: 22px;
+  border-bottom: 1px solid #E9E9E9;
+}
+
+.sec-parent-item {
+  padding-left: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  font-size: 22px;
+  border-bottom: 1px solid #E9E9E9;
+}
+
+.edit-btn-container {
+  display: flex;
+  a {
+    color: #747EDE;
+    margin-left: 40px;
+    display: inline-block;
+  }
+}

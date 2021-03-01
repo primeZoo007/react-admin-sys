@@ -1,0 +1,49 @@
+.select {
+  width: 100px;
+  height: 50px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.search-container {
+  margin-top: 16px;
+}
+
+.fix {
+  color: #6881EB;
+}
+
+.info-container {
+  font-size: 20px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+.ok {
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  line-height: 3;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.cancel {
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  line-height: 3;
+  background: #FFFFFF;
+  border-radius: 2px;
+  font-size: 18px;
+  color: rgba(104, 129, 235, 1);
+  border: 1px solid rgba(104, 129, 235, 1);
+}

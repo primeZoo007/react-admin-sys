@@ -1,0 +1,56 @@
+.add-btn {
+  position: relative;
+  bottom:28px;
+  float: right;
+  width: 130px;
+  height: 40px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.title-left{
+  position: relative;
+  bottom:18px;
+  float: left;
+  color: #6c86e8;
+  font-size: 18px;
+}
+.select {
+  width: 100px;
+  height: 50px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.pay-type{
+  width: 297px;
+}
+.search-container {
+  margin-top: 16px;
+}
+.mobile-left{
+  float:left;
+}
+.mobile-right{
+  position: relative;
+  left:5px;
+  float:right;
+}
+.fix {
+  display: inline-block;
+  margin-left: 10px;
+  color: #6881EB;
+}
+.btn-fix{
+  display: inline-block;
+  color: #6881EB;
+}
+.btn-container {
+  display: flex;
+  justify-content: center;
+  a {
+    margin-left: 10px;
+  }
+}

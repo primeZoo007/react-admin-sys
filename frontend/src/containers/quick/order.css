@@ -1,0 +1,25 @@
+.add-btn {
+  width: 130px;
+  height: 40px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.select {
+  width: 100px;
+  height: 50px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.search-container {
+  margin-top: 16px;
+}
+
+.fix {
+  color: #6881EB;
+}

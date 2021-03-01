@@ -1,0 +1,30 @@
+.btn-container {
+  display: flex;
+  justify-content: center;
+  .cancel-btn {
+    width: 100px;
+    height: 40px;
+    border: 1px solid rgba(170, 170, 170, 1);
+    border-radius: 2px;
+    color: #AAAAAA;
+    margin-right: 60px;
+  }
+  .confirm-btn {
+    width: 100px;
+    height: 40px;
+    background: rgba(116, 126, 222, 1);
+    border-radius: 2px;
+    color: #FFFFFF;
+  }
+}
+
+.chebox-container {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .chebox {
+    width: 300px;
+    height: 60px;
+  }
+}

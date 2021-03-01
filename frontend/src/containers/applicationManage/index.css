@@ -1,0 +1,10 @@
+button {
+  margin-left: 10px;
+}
+
+.customize-form {
+  display: flex;
+  span {
+    min-width: 20px;
+  }
+}

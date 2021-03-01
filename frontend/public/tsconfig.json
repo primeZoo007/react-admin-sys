@@ -1,0 +1,25 @@
+barcode: "6970935740187"
+commodityId: 285
+commoditySrc: 1
+count: 1
+memberPrice: "78.00"
+name: "百诺恩胶原蛋白弹润面膜"
+preferentialType: 0
+preferentialTypeName: "无优惠"
+price: "78.00"
+stock: 999
+subOrderDiscount: 10
+subOrderReceivableAmount: "78.00"
+thirdPartyCode: "6970935740187"
+
+barcode: "69432382017"
+categoryName: "棉柔巾"
+commodityId: 122
+commoditySrc: 0
+count: 1
+memberPrice: "5.00"
+name: "Baby纸巾"
+preferentialType: 0
+preferentialTypeName: "无优惠"
+price: "5.00"
+stock: 99

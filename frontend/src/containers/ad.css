@@ -1,0 +1,8 @@
+.ad {
+  width: 100%;
+  height: 100%;
+  background-image: url(http://img3.dian.so/lhc/2019/06/06/1366w_768h_A85151559835357.jpeg);
+  /* background-image: url(https://img3.dian.so/lhc/2019/06/06/1366w_768h_E357A1559835230.jpeg); */
+  background-position: center;
+  background-size: cover;
+}

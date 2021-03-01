@@ -1,0 +1,64 @@
+.add-btn {
+  width: 130px;
+  height: 40px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.select {
+  width: 100px;
+  height: 50px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-top: 40px;
+}
+
+.search-container {
+  margin-top: 16px;
+}
+
+.fix {
+  color: #6881EB;
+  display: inline-block;
+  margin-right: 26px;
+}
+
+.search-btn-container {
+  display: flex;
+  justify-content: center;
+  button {
+    margin-left: 10px;
+  }
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  button {
+    font-size: 20px;
+    color: #FFFFFF;
+    width: 120px;
+    height: 50px;
+    background: rgba(104, 129, 235, 1);
+    border-radius: 2px;
+  }
+}
+
+.btn-box {
+  display: flex;
+  .edit {
+    font-size: 18px;
+    color: #6881EB;
+    padding-right: 10px;
+  }
+  .details {
+    font-size: 18px;
+    color: #6881EB;
+  }
+}

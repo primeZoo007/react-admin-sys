@@ -1,0 +1,27 @@
+.btn-container {
+  margin-top: 43px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  button {
+    margin-left: 65px;
+    width: 120px;
+    height: 50px;
+    border-radius: 2px;
+  }
+  .ok-btn {
+    color: #FFFFFF;
+    font-size: 20px;
+    background: linear-gradient(-90deg, rgba(104, 129, 235, 1) 0%, rgba(137, 155, 234, 1) 100%);
+  }
+  .cancel-btn {
+    color: #999999;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(170, 170, 170, 1);
+  }
+}
+.text-area-container{
+  height: 200px ;
+  border: 1px solid #d9d9d9;
+}

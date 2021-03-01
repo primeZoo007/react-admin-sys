@@ -1,0 +1,48 @@
+.add-btn {
+  width: 130px;
+  height: 40px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.select-container {
+  display: flex;
+}
+
+.select {
+  width: 100px;
+  height: 50px;
+  background: rgba(104, 129, 235, 1);
+  border-radius: 2px;
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.search-container {
+  margin-top: 16px;
+}
+
+.fix {
+  color: #6881EB;
+  margin-left: 5px;
+}
+
+.category-container {
+  display: flex;
+  select {
+    margin-right: 5px;
+  }
+}
+
+.pright {
+  margin-right: 5px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}

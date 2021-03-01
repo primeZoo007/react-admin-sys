@@ -1,0 +1,44 @@
+.form-container {
+  margin-top: 83px;
+  .upload-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .title {
+      font-size: 22px;
+      color: #333333;
+      padding-bottom: 20px;
+    }
+    .des {
+      padding-top: 16px;
+      font-size: 16px;
+      color: #666666;
+    }
+  }
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 15%;
+  padding-bottom: 40px;
+  button {
+    margin-left: 15px;
+    width: 100px;
+    height: 40px;
+    background: rgba(104, 129, 235, 1);
+    border-radius: 2px;
+    color: #FFFFFF;
+  }
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    width: 150px;
+    height: 150px;
+  }
+}
